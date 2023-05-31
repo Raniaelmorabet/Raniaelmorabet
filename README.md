@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋  I'm Rania el morabet</h2>
+<img src=https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif>
 
 ###
 
@@ -75,3 +76,20 @@
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Raniaelmorabet/Raniaelmorabet/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Raniaelmorabet/count.svg?"  />
+</div>
+
+###
+
+
+###
