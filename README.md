@@ -81,7 +81,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Raniaelmorabet/Raniaelmorabet/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
