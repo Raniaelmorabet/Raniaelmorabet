@@ -1,4 +1,7 @@
 <h2 align="center">Hi 👋  I'm Rania el morabet</h2>
+<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" />
+
+
 <img src="https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif"/>
 
 ###
