@@ -63,7 +63,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Raniaelmorabet&theme=redical"/>
 
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=p7z8nfkbqpsu01lo8py3192tu?si=bf18507c9a254534&coverimage=true&theme=default&show_offline=false&background_color=121212&interchange=true)
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=p7z8nfkbqpsu01lo8py3192tu&coverimage=true&theme=default&show_offline=false&background_color=121212&interchange=true)
 <br />
 <br/>  
 
