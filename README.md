@@ -62,8 +62,7 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Raniaelmorabet&theme=redical"/>
 
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=p7z8nfkbqpsu01lo8py3192tu&coverimage=true&theme=default&show_offline=false&background_color=121212&interchange=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=p7z8nfkbqpsu01lo8py3192tu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <br />
 <br/>  
 
